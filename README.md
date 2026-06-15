@@ -1,8 +1,9 @@
 # Twitter Sentiment Analysis
 
-## 📌 Project Overview
-This project is a Machine Learning-based application that analyzes text data and classifies it into Positive or Negative sentiment. It helps understand user opinions using Python and basic Natural Language Processing techniques.
+A Machine Learning project built using Python and Scikit-learn to analyze and classify text sentiment.
 
+## 📌 Project Overview
+This project is a Machine Learning-based application that analyzes text data and classifies it into Positive or Negative sentiment.
 ---
 
 ## 🚀 Features
